@@ -19,3 +19,7 @@ Awesome [Risor](https://risor.io) related projects.
 ## Language related
 
 * [tree-sitter-risor](https://github.com/applejag/tree-sitter-risor) - Risor grammar for tree-sitter 
+
+## Additional modules/libraries
+
+* [rubiojr Risor libs](https://github.com/rubiojr/risor-libs) - GitHub client, testing library, RSX utilities and others.
