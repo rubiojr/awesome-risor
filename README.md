@@ -11,6 +11,7 @@ Awesome [Risor](https://risor.io) related projects.
 
 * [history-exporter](https://github.com/rubiojr/history-exporter) - Firefox (and Firebox based) history exporter script 
 * [RSX](https://github.com/rubiojr/rsx) - Package your Risor scripts into a standalone Go binary
+* [Verba](https://github.com/rubiojr/verba-go) - Port of [verba.civio.es](https://verba.civio.es) to Risor
 
 ## Showcase
 
