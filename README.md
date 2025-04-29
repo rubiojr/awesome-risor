@@ -31,4 +31,5 @@ Awesome [Risor](https://risor.io) related projects.
 
 ## LLMs and Risor
 
-* [Risor Code Assistant](https://github.com/rubiojr/rca) - Useful context and prompts to help LLM write Risor
+* [Risor Code Assistant](https://github.com/rubiojr/rca) - Useful context and prompts to help LLMs write Risor scripts
+* [Risor Module Assistant](https://github.com/rubiojr/rma) - Useful context and prompts to help LLMs write Risor modules
