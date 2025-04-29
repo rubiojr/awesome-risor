@@ -28,3 +28,7 @@ Awesome [Risor](https://risor.io) related projects.
 ## Additional modules/libraries
 
 * [rubiojr Risor libs](https://github.com/rubiojr/risor-libs) - GitHub client, testing library, RSX utilities and others.
+
+## LLMs and Risor
+
+* [Risor Code Assistant](https://github.com/rubiojr/rca) - Useful context and prompts to help LLM write Risor
