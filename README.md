@@ -13,6 +13,10 @@ Awesome [Risor](https://risor.io) related projects.
 * [RSX](https://github.com/rubiojr/rsx) - Package your Risor scripts into a standalone Go binary
 * [Verba](https://github.com/rubiojr/verba-go) - Port of [verba.civio.es](https://verba.civio.es) to Risor
 
+## Tooling
+
+* [docgen](https://github.com/rubiojr/risor-docgen) - Risor code documentation generator
+
 ## Showcase
 
 * [Tengo and Risor benchmarks](https://github.com/mna/bench_go_scripting) -  Small benchmarks comparing the Tengo and Risor scripting languages 
