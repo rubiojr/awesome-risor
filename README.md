@@ -42,4 +42,5 @@ Awesome [Risor](https://risor.io) related projects.
 
 * [Risor Code Assistant](https://github.com/rubiojr/rca) - Useful context and prompts to help LLMs write Risor scripts
 * [Risor Module Assistant](https://github.com/rubiojr/rma) - Useful context and prompts to help LLMs write Risor modules
-* [Firelynx](https://github.com/atlanticdynamic/firelynx) - Scriptable implementation of the Model Context Protocol (MCP) server
+* [Firelynx](https://github.com/atlanticdynamic/firelynx) - Scriptable implementation of the Model Context Protocol (MCP) server. Supports Risor scripting.
+* [Dive](https://github.com/diveagents/dive/) - Go toolkit to create AI agents, supports Risor scripting.
