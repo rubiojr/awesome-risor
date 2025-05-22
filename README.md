@@ -33,6 +33,7 @@ Awesome [Risor](https://risor.io) related projects.
 
 * [rubiojr Risor libs](https://github.com/rubiojr/risor-libs) - GitHub client, testing library, RSX utilities and others
 * [tlz](https://github.com/rubiojr/tlz) - [Timelinize](https://timelinize.com) API Risor library and CLI
+* [risorxpath](https://github.com/speedata/risorxpath) -  XPath module for the risor language
 
 ## LLMs and Risor
 
