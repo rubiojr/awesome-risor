@@ -35,6 +35,7 @@ Awesome [Risor](https://risor.io) related projects.
 * [tlz](https://github.com/rubiojr/tlz) - [Timelinize](https://timelinize.com) API Risor library and CLI
 * [XPathh](https://github.com/speedata/risorxpath) -  XPath module for the risor language
 * [XML](https://github.com/speedata/risorxml) - XML module for the risor language 
+* [Echarts](https://github.com/rubiojr/echarts-risor) - Apache Echarts for Risor
 
 ## LLMs and Risor
 
