@@ -27,9 +27,11 @@ Awesome [Risor](https://risor.io) related projects.
 
 ## Additional modules/libraries
 
-* [rubiojr Risor libs](https://github.com/rubiojr/risor-libs) - GitHub client, testing library, RSX utilities and others.
+* [rubiojr Risor libs](https://github.com/rubiojr/risor-libs) - GitHub client, testing library, RSX utilities and others
+* [tlz](https://github.com/rubiojr/tlz) - [Timelinize](https://timelinize.com) API Risor library and CLI
 
 ## LLMs and Risor
 
 * [Risor Code Assistant](https://github.com/rubiojr/rca) - Useful context and prompts to help LLMs write Risor scripts
 * [Risor Module Assistant](https://github.com/rubiojr/rma) - Useful context and prompts to help LLMs write Risor modules
+* [Firelynx](https://github.com/atlanticdynamic/firelynx) - Scriptable implementation of the Model Context Protocol (MCP) server
