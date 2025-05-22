@@ -16,6 +16,7 @@ Awesome [Risor](https://risor.io) related projects.
 ## Tooling
 
 * [docgen](https://github.com/rubiojr/risor-docgen) - Risor code documentation generator
+* [docbot](https://github.com/rubiojr/risor-docbot) - AI assisted Risor code documentation bot
 
 ## Showcase
 
